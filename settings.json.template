@@ -1,0 +1,9 @@
+{
+  "project_id": "your-project-id",
+  "region": "us-central1",
+  "key_file": "path/to/your-service-account-key.json",
+  "datasets": [
+    "dataset1",
+    "dataset2"
+  ]
+}
